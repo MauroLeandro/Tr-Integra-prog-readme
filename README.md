@@ -8,7 +8,6 @@ Ordenamiento y Búsqueda en Python
 
 Este script permite al usuario ingresar una lista de 20 números enteros, ordenarlos de menor a mayor usando el algoritmo Bubble Sort, y luego realizar una búsqueda binaria sobre la lista ordenada para encontrar un número específico. Además, mide y muestra el tiempo que tarda tanto en ordenar como en buscar.
 
----
 Características
 
 - Entrada de 20 números enteros por consola.
@@ -18,14 +17,10 @@ Características
   - Ordenamiento
   - Búsqueda
 
----
-
 Algoritmos utilizados
 
 - Bubble Sort: Algoritmo de ordenamiento simple que compara pares de elementos adyacentes y los intercambia si están en el orden incorrecto.
 - Búsqueda binaria: Algoritmo eficiente que busca un número en una lista previamente ordenada dividiendo el espacio de búsqueda por la mitad en cada paso.
-
----
 
 Uso
 

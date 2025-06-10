@@ -50,4 +50,3 @@ bubble_sort(lista) → Ordena la lista.
 busqueda_binaria(lista, objetivo) → Busca un número en la lista ordenada.
 
 Entrada y salida de datos por consola.
-

@@ -4,7 +4,7 @@ link video:  https://drive.google.com/file/d/1cYiV2bbsjV26zaejNgvkonwgMEbSi5bu/v
 [Trabajo practico integrador programacion-1.pdf](https://github.com/user-attachments/files/20663053/Trabajo.practico.integrador.programacion-1.pdf)
 
 
-# Ordenamiento y Búsqueda en Python
+Ordenamiento y Búsqueda en Python
 
 Este script permite al usuario ingresar una lista de 20 números enteros, ordenarlos de menor a mayor usando el algoritmo Bubble Sort, y luego realizar una búsqueda binaria sobre la lista ordenada para encontrar un número específico. Además, mide y muestra el tiempo que tarda tanto en ordenar como en buscar.
 
@@ -27,7 +27,7 @@ Algoritmos utilizados
 
 ---
 
-## 📝 Uso
+Uso
 
 1. Ejecutá el script en un entorno Python
 2. Ingresá exactamente 20 números enteros separados por coma (,) cuando el programa lo solicite:
